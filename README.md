@@ -49,7 +49,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/YourUsername/Furnihuture.git
+git clone https://github.com/AbdullahGoma/Furnihuture.git
 Navigate to the project directory:
 bash
 Copy code
